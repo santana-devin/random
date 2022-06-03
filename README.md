@@ -38,7 +38,9 @@ Essas serão variáveis ​​globais do Gradle, que podemos usar posteriormente
 #./gradlew assembleRelease
 
 
+![Overview](https://github.com/santana-devin/random/blob/master/images/screen-1.gif).
 
+![Overview](https://github.com/santana-devin/random/blob/master/images/screen-2.gif).
 
 
 
